@@ -2,7 +2,7 @@
 #
 # see docs/DOCKER.md for usage
 
-FROM centos:7
+FROM centos:8
 MAINTAINER ogondza@gmail.com
 
 RUN yum -y install \
